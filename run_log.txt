@@ -1,0 +1,25 @@
+--- Wong Halves count ---
+Final balance is 5975.0 after 100000 shoes.
+RTP:1.0025833547314726
+
+--- Hi-Lo count ---
+Final balance is 7363.0 after 100000 shoes.
+RTP:1.003299192934345
+
+--- Basic strategy ---
+Final balance is 0.5 after 10777 shoes.
+RTP:0.994224513027349
+
+--- Mimic the dealer ---
+Final balance is 1.0 after 898 shoes.
+RTP:0.9212393566698203
+
+--- Random ---
+Final balance is 0.5 after 172 shoes.
+RTP:0.6996694711538461
+
+Saved chart to results/bot_comparison.png
+
+real	2m54.122s
+user	2m52.380s
+sys	0m0.070s
